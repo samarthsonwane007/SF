@@ -15,6 +15,10 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) deploy button-2 
 
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/samarthsonwane007/SF) deploy my button-3
+
+
 ## both deploy buttons arent same....
 
 
